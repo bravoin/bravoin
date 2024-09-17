@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erik.
 - 👀 I’m interested in to learn web developer.
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently learning HTML & CSS, JavaScript.
 - 💞️ I’m looking to collaborate on new business.
 - 📫 not yet
 
